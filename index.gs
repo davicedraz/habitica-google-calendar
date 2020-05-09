@@ -98,13 +98,14 @@ function fetchTodayCompletedTasks(habTaskURL, templateParams, today) {
   return tasksContent;
 }
 
-function createTaskNote(title, location) {
+//optional call, remove if you dont't need it
+function createTaskNote(title, location) { 
   if (location) {
-    if (location.indexOf("Pa-Kua") > -1) {
+    if (location.indexOf("Some recurrent event title you want to filter in") > -1) {
       return (
         location + "![image](some_valid_url)" //markdown sintax
       );
-    } else if (title.indexOf("Consulta") > -1) {
+    } else if (title.indexOf("Another recurrent event title you want to filter in") > -1) {
       return location + "![image](some_valid_url)"; //markdown sintax
     } else {
       return location;
