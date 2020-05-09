@@ -26,10 +26,10 @@ Thanks to Habitica's public API, it is possible to:
 Just copy, paste & run!
 ```
 
-If you don't knwow Google App Scripts and have no idea how to use the script above, check the video below to know more, then click [here](https://www.google.com/script/start/) to start one:
+If you don't know Google App Scripts and have no idea how to use the script above, check the video below to know more, then click [here](https://www.google.com/script/start/) to start one:
 
 
-[![Watch the video](https://lh4.googleusercontent.com/P-1yJ5AXTUI1CO7WmpmHUQRppoXrYPh7lNaNhiiUVOv2nhHAzUy4N-DGtald-vjgzkLgOV4waQ=s640-w640-h400)](https://www.youtube.com/watch?v=JJgmU_JUsug)
+[![Watch the video](https://www.google.com/script/start/as-playvid.png)](https://www.youtube.com/watch?v=JJgmU_JUsug)
     
 
 
