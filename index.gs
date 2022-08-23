@@ -5,9 +5,8 @@ const HABITICA_ID = "Your habitica id goes here";
 function syncToHabbitica() {
   const habTaskURL = "https://habitica.com/api/v3/tasks/";
 
-  const today = new Date();
-  const agenda = CalendarApp.getCalendarsByName(CALENDAR_NAME)[0];
-  const events = agenda.getEventsForDay(today);
+  var today = new Date();
+  var events = CalendarApp.getDefaultCalendar().getEventsForDay(today);
 
   console.log(events[0]);
 
