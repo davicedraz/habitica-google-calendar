@@ -30,6 +30,7 @@ If you don't know Google App Scripts and have no idea how to use the script abov
 
 Example:
     `const HABITICA_TOKEN = "INSERT API TOKEN HERE";` (keep the key surrounded by quotations)
+    
     `const HABITICA_ID = "INSERT USER ID HERE";` (keep the key surrounded by quotations)
 
 [![Watch the video](https://www.google.com/script/start/as-playvid.png)](https://www.youtube.com/watch?v=JJgmU_JUsug)
