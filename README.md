@@ -29,6 +29,7 @@ Just copy, paste & run!
 If you don't know Google App Scripts and have no idea how to use the script above, check the video below to know more, then copy all of the code from the `index.gs` file,click [here](https://script.google.com/home), press `New Project`, paste the code, add your User ID and your API token from here (https://habitica.com/user/settings/api), and place it in their designated variables.
 
 Example:
+
     `const HABITICA_TOKEN = "INSERT API TOKEN HERE";` (keep the key surrounded by quotations)
     
     `const HABITICA_ID = "INSERT USER ID HERE";` (keep the key surrounded by quotations)
